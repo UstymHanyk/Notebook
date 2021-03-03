@@ -1,5 +1,5 @@
 # Notebook
-
+A basic notebook with the ability to add, modify and search through notes
 ## Example 
 ```commandline
     Notebook Menu
